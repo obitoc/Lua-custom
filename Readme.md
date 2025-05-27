@@ -8,7 +8,7 @@ to learn basics and all the orignal version does
 [:heart: Examples](/examples)
 ## Installation
 ```sh
-git clone https://github.com/obitoc/Lua
+git clone https://github.com/obitoc/Lua-custom
 cd Lua-custom/src
 make
 ```
