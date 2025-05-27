@@ -502,7 +502,7 @@ static int luaB_tostring (lua_State *L) {
   return 1;
 }
 static int luaB_obito (){
-  printf("suck obito dih");
+  printf("what you want ?\n");
   return 0;
 }
 
