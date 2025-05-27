@@ -9,7 +9,7 @@ to learn basics and all the orignal version does
 ## Installation
 ```sh
 git clone https://github.com/obitoc/Lua
-cd Lua/src
+cd Lua-custom/src
 make
 ```
 You well get `lua` & `luac` executables
